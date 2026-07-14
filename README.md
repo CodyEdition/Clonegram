@@ -5,7 +5,13 @@ An Instagram app layout clone built with Java. I built it as a school project. T
 - Java
 
 ## 🚥Running the Project
-*[WIP]*
+
+1. Install [Android Studio](https://developer.android.com/studio).
+2. Open this folder in Android Studio (`File` > `Open`).
+3. Wait for Gradle to finish syncing.
+4. Create or pick an emulator (`Device Manager`), or plug in a phone with USB debugging on.
+5. Press the green **Run** button.
 
 ## 📸Showcase
-*[WIP]*
+
+![Clonegram profile screen](docs/showcase.png)
